@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.fda53aba.chunk.css",
+    "main.js": "/portfolio/static/js/main.1bcb6baf.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1bcb6baf.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.f4f2abbf.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f4f2abbf.js.map",
+    "static/css/2.abd97b8c.chunk.css": "/portfolio/static/css/2.abd97b8c.chunk.css",
+    "static/js/2.cbd68a0f.chunk.js": "/portfolio/static/js/2.cbd68a0f.chunk.js",
+    "static/js/2.cbd68a0f.chunk.js.map": "/portfolio/static/js/2.cbd68a0f.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.f7bbdddeb658f45b681cbe02c61210d9.js": "/portfolio/precache-manifest.f7bbdddeb658f45b681cbe02c61210d9.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.abd97b8c.chunk.css.map": "/portfolio/static/css/2.abd97b8c.chunk.css.map",
+    "static/css/main.fda53aba.chunk.css.map": "/portfolio/static/css/main.fda53aba.chunk.css.map",
+    "static/js/2.cbd68a0f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.cbd68a0f.chunk.js.LICENSE.txt",
+    "static/media/facialrecognitionappfrontend.PNG": "/portfolio/static/media/facialrecognitionappfrontend.810a8951.PNG",
+    "static/media/folder.svg": "/portfolio/static/media/folder.ed8e25c8.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.4142f8e7.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.605cee18.svg",
+    "static/media/location.svg": "/portfolio/static/media/location.7c5b9f6e.svg",
+    "static/media/mail.svg": "/portfolio/static/media/mail.70852fc8.svg",
+    "static/media/pdf.svg": "/portfolio/static/media/pdf.76a939e5.svg",
+    "static/media/portfoliowebsitefrontpage.PNG": "/portfolio/static/media/portfoliowebsitefrontpage.aa352ce5.PNG",
+    "static/media/project.svg": "/portfolio/static/media/project.18e16781.svg",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.23428af9.pdf",
+    "static/media/trophy.svg": "/portfolio/static/media/trophy.604c22d1.svg",
+    "static/media/underdeveloptment.jpg": "/portfolio/static/media/underdeveloptment.e48c08dd.jpg",
+    "static/media/weatherappfrontpage.png": "/portfolio/static/media/weatherappfrontpage.951e91ce.png",
+    "static/media/web.svg": "/portfolio/static/media/web.902da8e2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4f2abbf.js",
+    "static/css/2.abd97b8c.chunk.css",
+    "static/js/2.cbd68a0f.chunk.js",
+    "static/css/main.fda53aba.chunk.css",
+    "static/js/main.1bcb6baf.chunk.js"
+  ]
+}
