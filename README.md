@@ -1,4 +1,4 @@
-<a href="https://filipeba.net"><img src="./src/components/body/img/portfoliowebsitefrontpage.PNG" title="Portfolio Website" alt="image of the website"></a>
+<a href="https://filipeba.net"><img src="./portfoliowebsitefrontpage.PNG" title="Portfolio Website" alt="image of the website"></a>
 
 # Portfolio Website
 
