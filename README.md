@@ -26,7 +26,7 @@
 
 ## Installation
 
-- Access the website at [https://filipeba.net](https://filipeba.net)
+- Access the website at [https://filipeba.github.io/portfolio/](https://filipeba.github.io/portfolio/)
 
 ## Features
 
@@ -90,7 +90,7 @@ Github Pages (Front End)
 
 Reach out to me at:
 
-- Portfolio at <a href="" target="_blank">`https://filipeba.net`</a>
+- Portfolio at <a href="" target="_blank">`https://filipeba.github.io/portfolio/`</a>
 - Email at <a href="mailto: filipeba.ict@gmail.com" target="_blank">`Filipeba.ict@gmail.com`</a>
 - Linkedin at <a href="https://linkedin.com/in/filipebaict" target="_blank">`https://linkedin.com/in/filipebaict`</a> 
 
@@ -98,4 +98,4 @@ Reach out to me at:
 
 ## License
 
-- Copyright 2020 © <a href="https://filipeba.net" target="_blank">Filipe Bergami Alves</a>.
+- Copyright 2020 © <a href="https://filipeba.github.io/portfolio/" target="_blank">Filipe Bergami Alves</a>.
